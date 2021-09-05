@@ -1,0 +1,7 @@
+arp.c:14:6:arp_init	16	static
+arp.c:27:6:update_bpm	24	static
+arp.c:41:6:arpeggiate	24	static
+arp.c:53:10:get_next_note	24	static
+arp.c:80:9:ready_for_new_note	16	static
+arp.c:86:6:play_note	16	static
+arp.c:91:6:handle_reset_logic	16	static
